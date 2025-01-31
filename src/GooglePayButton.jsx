@@ -1,7 +1,7 @@
 import React from "react";
 
 const GooglePayButton = () => {
-  const upiID = "aibaljosej@okicici"; // Replace with your UPI ID
+  const upiID = "alfredpbenjamin@okaxis"; // Replace with your UPI ID
   const name = "ACM AJCE"; // Business or personal name
   const amount = "500"; // Amount in INR
   const transactionID = "T" + Date.now(); // Unique transaction ID
